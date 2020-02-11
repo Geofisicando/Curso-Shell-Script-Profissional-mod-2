@@ -5,6 +5,7 @@
 
 read -p "Qual a sua idade? " IDADE
 
+# IDADE=14
 if [ "$IDADE" -gt "65" ]
 then
 	echo "O usuário é idoso"
