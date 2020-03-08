@@ -1,0 +1,5 @@
+sabonete:2.5
+café:3
+macarrão:4.5
+pasta de dente: 2.5
+arroz:5.0
