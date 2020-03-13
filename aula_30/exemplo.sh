@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Exercício while, lista de compras.
-# O programa lê a lista de compras do arquivo passado
-# em $1 exibe, soma os valores e informa ao usuário o
+# O programa lê a lista de compras do arquivo da variável ARQUIVO
+# e soma os valores e informa ao usuário o
 # custo total
 
 ARQUIVO="lista_compras.txt"
