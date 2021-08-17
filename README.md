@@ -11,3 +11,6 @@ executáveis escritos na linguagem de programação shell script.
 Neste segundo módulo você irá aprender o básico da criação de scripts no shell e as principais
 estruturas lógicas utilizadas: Condicionais, laços de repetição, case e etc. Este módulo possui
 também vários exercícios práticos e material de apoio disponível para download no Github.
+
+## Índice
+> Este material de apoio está em manutenção, alguns recursos ainda não estão disponíveis.
