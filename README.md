@@ -15,12 +15,12 @@ também vários exercícios práticos e material de apoio disponível para downl
 ## Índice
 > Este material de apoio está em manutenção, alguns recursos ainda não estão disponíveis.
 
- Fase 1 Total 4 aulas (00:34 horas)
-
-    Shell Script profissional Módulo 2 #1 - Olá mundo, Shell: Exibir mensagen olá mundo na tela do terminal
-    Shell Script profissional Módulo 2 #2 - Read: Requisitar informação do usuário pela linha de comandos
-    Shell Script profissional Módulo 2 #3 - Variáveis no Shell Script: Introdução
-    Shell Script profissional Módulo 2 #4 - Exercício 1: Calcular idade de usuário
+ ### Fase 1
+ 
+- [#1 - Olá mundo, Shell: Exibir mensagen olá mundo na tela do terminal](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_1#aula-1---ol%C3%A1-mundo-shell-exibir-mensagen-ol%C3%A1-mundo-na-tela-do-terminal)
+- Shell Script profissional Módulo 2 #2 - Read: Requisitar informação do usuário pela linha de comandos
+- Shell Script profissional Módulo 2 #3 - Variáveis no Shell Script: Introdução
+- Shell Script profissional Módulo 2 #4 - Exercício 1: Calcular idade de usuário
 
 Fase 2 Total 3 aulas (00:25 horas)
 
