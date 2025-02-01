@@ -18,9 +18,9 @@ também vários exercícios práticos e material de apoio disponível para downl
  ### Fase 1
  
 - [#1 - Olá mundo, Shell: Exibir mensagen olá mundo na tela do terminal](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_1#aula-1---ol%C3%A1-mundo-shell-exibir-mensagen-ol%C3%A1-mundo-na-tela-do-terminal)
-- Shell Script profissional Módulo 2 #2 - Read: Requisitar informação do usuário pela linha de comandos
-- Shell Script profissional Módulo 2 #3 - Variáveis no Shell Script: Introdução
-- Shell Script profissional Módulo 2 #4 - Exercício 1: Calcular idade de usuário
+- [#2 - Read: Requisitar informação do usuário pela linha de comandos](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_2#aula-2---read-requisitar-informa%C3%A7%C3%A3o-do-usu%C3%A1rio-pela-linha-de-comandos)
+- [#3 - Variáveis no Shell Script: Introdução](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_3#aula-3---vari%C3%A1veis-no-shell-script-introdu%C3%A7%C3%A3o)
+- [#4 - Exercício 1: Calcular idade de usuário](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_4#aula-4---exerc%C3%ADcio-1-calcular-idade-de-usu%C3%A1rio)
 
 Fase 2 Total 3 aulas (00:25 horas)
 
