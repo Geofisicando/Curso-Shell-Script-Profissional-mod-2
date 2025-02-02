@@ -22,13 +22,13 @@ também vários exercícios práticos e material de apoio disponível para downl
 - [#3 - Variáveis no Shell Script: Introdução](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_3#aula-3---vari%C3%A1veis-no-shell-script-introdu%C3%A7%C3%A3o)
 - [#4 - Exercício 1: Calcular idade de usuário](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_4#aula-4---exerc%C3%ADcio-1-calcular-idade-de-usu%C3%A1rio)
 
-Fase 2 Total 3 aulas (00:25 horas)
+### Fase 2
 
-    Mod.2 #5 - Expansão de variáveis (Parte 1): Manipulação de strings
-    Mod.2 #6 - Expansão de variáveis (Parte 2): Estruturas condicionais
-    Mod.2 #7 - Exercício 2: Expansão de variáveis em scripts
+- #5 - Expansão de variáveis (Parte 1): Manipulação de strings
+- #6 - Expansão de variáveis (Parte 2): Estruturas condicionais
+- [#7 - Exercício 2: Expansão de variáveis em scripts](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2/tree/master/aula_7#aula-7---exerc%C3%ADcio-2-expans%C3%A3o-de-vari%C3%A1veis-em-scripts)
 
-Fase 3 Total 4 aulas (00:24 horas)
+### Fase 3
 
     Mod.2 #8 - Bloco if (Parte 1): Introdução às estruturas condicionais
     Mod.2 #9 - Bloco if (Parte 2): Comparação de strings
